@@ -11,7 +11,7 @@
  * Milwaukee, WI  53202
  *
  * Portions derived from "get_snmp.php" by:
- *    Sebasti·n GÛmez (tiochan@gmail.com)
+ *    Sebasti√°n G√≥mez (tiochan@gmail.com)
  *    UPCnet - Politechnical University of Catalonya - Spain
  *
  *
